@@ -1,3 +1,6 @@
 {
-  "projectId": "j35334"
+  "projectId": "j35334",
+  "env": {
+    "allureResultsPath": "allure-results"
+  }
 }
