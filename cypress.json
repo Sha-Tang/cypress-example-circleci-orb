@@ -1,4 +1,9 @@
 {
+  "reporter": "junit",
+    "reporterOptions": {
+    "mochaFile": "../ProjectTest/allure-results/test_report_[hash].xml", 
+    "toConsole": true
+    },
   "projectId": "j35334",
   "env": {
     "allureResultsPath": "allure-results"
